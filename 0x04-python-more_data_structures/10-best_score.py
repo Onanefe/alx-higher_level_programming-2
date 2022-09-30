@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 10-best_score.py
 
